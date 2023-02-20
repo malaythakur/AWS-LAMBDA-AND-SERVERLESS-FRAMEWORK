@@ -3,7 +3,7 @@
 <body>
 <h2 align = "center">AWS-LAMBDA-AND-SERVERLESS-FRAMEWORK</h2>
 
-<pre>The process of creating and deploying a node.js AWS Lambda function with the use of the Serverless Framework to speed the whole process up. </pre>
+<pre>Deploy your initial AWS Lambda Function as an API Gateway endpoint by leveraging the power of the Serverless Framework </pre>
 <br>
 <h2>Prerequisites</h2>
 <ol>
