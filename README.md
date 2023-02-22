@@ -3,7 +3,7 @@
 <body>
 <h1 align = "center">AWS-LAMBDA-AND-SERVERLESS-FRAMEWORK</h1>
 
-<pre>Deploy your initial AWS Lambda Function as an API Gateway endpoint by leveraging the power of the Serverless Framework </pre>
+<pre>Deploy your initial <a href="https://www.serverless.com/aws-lambda">AWS Lambda</a> Function as an API Gateway endpoint by leveraging the power of the Serverless Framework </pre>
   <h2>What is Serveless ?</h2>
   <p>Serverless Framework is <em>open source</em> software that builds, compiles, and packages code for serverless deployment, and then deploys the package to the    cloud</p>
   <p>The term itself might be a little bit confusing as it indicates that there are no servers being used which is not true. There are servers involved however you as a developer don't have to worry about how your code is going to be executed, all the server management is going to be handled by the provider company (AWS in our case).</p>
